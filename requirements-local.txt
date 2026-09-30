@@ -1,0 +1,5 @@
+# Install requirements.txt first, then these packages if you want
+# LOCAL_EXPLANATION_ENABLED=true.
+transformers==4.56.1
+torch>=2.5.0
+sentencepiece>=0.2.0
